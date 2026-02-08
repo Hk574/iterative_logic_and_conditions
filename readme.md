@@ -1,4 +1,14 @@
-# This is Homework-5
+# Iterative Logic and Conditions
+This repository focuses on repetitive execution patterns and conditional logic.
+
+## Key Focus Areas
+- Loops and iteration
+- Nested conditions
+- Logical checks
+- Repetitive task handling
+
+## Overview
+Shows the ability to design solutions using iteration and conditional logic.
 
 # Interactive Calculator with Multiprocessing Support
 
